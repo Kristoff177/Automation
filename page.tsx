@@ -104,7 +104,7 @@ function HeroSection({ mounted }: { mounted: boolean }) {
           </h1>
 
           <p className="text-xl text-white/70 leading-relaxed">
-            Transform your business with cutting-edge AI automation. We build intelligent systems that work 24/7,
+            Transform your business with cutting-edge AI automation. I build intelligent systems that work 24/7,
             scale infinitely, and deliver results beyond human capability.
           </p>
 
