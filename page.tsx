@@ -120,7 +120,7 @@ function HeroSection({ mounted }: { mounted: boolean }) {
 
           <div className="flex items-center space-x-8 pt-4">
             <div>
-              <div className="text-3xl font-bold text-[#D4AF37]">500+</div>
+              <div className="text-3xl font-bold text-[#D4AF37]">10+</div>
               <div className="text-sm text-white/50">Projects Deployed</div>
             </div>
             <div className="h-12 w-px bg-white/10"></div>
